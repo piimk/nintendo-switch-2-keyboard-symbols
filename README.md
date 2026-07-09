@@ -9,7 +9,7 @@ The symbols are ordered by when they appear when cycling through the keyboards.
 For every keyboard, I read the symbols from left to right. 
 I started with the `English (UK)` keyboard, and ended after reading all the pages of the `Symbol` keyboard.
 
-After going through every page of one of these keyboards (e.g. ABC, #+=, ÀÁÂ) I press the joystick button to enable the SHIFT modifier.
+After reading a page of one of these keyboards (e.g. ABC, #+=, ÀÁÂ) I press the joystick button to enable the SHIFT modifier.
 If the SHIFT modifier makes any new characters appear, I write down those that haven't appeared before.
 
 The Japanese 50 keyboard is an outlier in that not all the symbols can be written with a single A-button press.
